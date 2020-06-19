@@ -1,20 +1,20 @@
-ID,DESCRIPCION,POBLACION,COD
-1,Andalucía,8388107,935
-2,Aragón,1308563,936
-3,"Asturias, Principado de",1042608,951
-4,"Balears, Illes",1107220,947
-5,Canarias,2101924,948
-6,Cantabria,582206,937
-7,Castilla y León,2447519,938
-8,Castilla - La Mancha,2041631,939
-9,Cataluña,7522596,940
-10,Comunitat Valenciana,4959968,944
-11,Extremadura,1087778,945
-12,Galicia,2718525,946
-13,"Madrid, Comunidad de",6466996,942
-14,"Murcia, Región de",1464847,952
-15,"Navarra, Comunidad Foral de",640647,943
-16,País Vasco,2189534,950
-17,"Rioja, La",315794,949
-18,Ceuta,84519,941
-19,Melilla,86026,941
+ID,DESCRIPCION,COD
+1,Andalucía,935
+2,Aragón,936
+3,"Asturias, Principado de",951
+4,"Balears, Illes",947
+5,Canarias,948
+6,Cantabria,937
+7,Castilla y León,938
+8,Castilla - La Mancha,939
+9,Cataluña,940
+10,Comunitat Valenciana,944
+11,Extremadura,945
+12,Galicia,946
+13,"Madrid, Comunidad de",942
+14,"Murcia, Región de",952
+15,"Navarra, Comunidad Foral de",943
+16,País Vasco,950
+17,"Rioja, La",949
+18,Ceuta,941
+19,Melilla,941
